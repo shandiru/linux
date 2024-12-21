@@ -1,1 +1,9 @@
 linux basic
+
+root
+sudo passwd root // can change password
+
+su - change root user
+after login 
+used exit logout
+
